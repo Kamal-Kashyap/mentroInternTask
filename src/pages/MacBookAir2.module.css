@@ -1,0 +1,179 @@
+.macbookAir2Child,
+.maskGroupIcon {
+  position: absolute;
+  top: 0;
+  left: 777.5px;
+  width: 2521.5px;
+  height: 2530px;
+}
+.maskGroupIcon {
+  left: 829px;
+  width: 2417.36px;
+  height: 2305.07px;
+  object-fit: cover;
+}
+.macbookAir2Inner,
+.macbookAir2Item {
+  position: absolute;
+  top: 946px;
+  left: 1964px;
+  width: 131px;
+  height: 132px;
+  object-fit: cover;
+}
+.macbookAir2Inner {
+  top: 739.19px;
+  left: 1758.2px;
+  width: 543px;
+  height: 546px;
+}
+.sauravPal {
+  position: absolute;
+  top: 593px;
+  left: 174px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 497px;
+  height: 106px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 1222px;
+  left: 207px;
+  background-color: var(--color-forestgreen);
+  width: 535px;
+  height: 122px;
+}
+.bookASession,
+.prankurGupta {
+  position: absolute;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.bookASession {
+  top: 1245px;
+  left: 281px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  text-align: justify;
+  width: 400px;
+  height: 67px;
+}
+.prankurGupta {
+  top: 1381px;
+  left: 1703px;
+  font-size: var(--font-size-2xl);
+  width: 616px;
+  height: 106px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 1344px;
+  left: 1689px;
+  border-radius: var(--br-md);
+  width: 693px;
+  height: 180px;
+}
+.ellipseIcon,
+.macbookAir2Child1,
+.macbookAir2Child2 {
+  position: absolute;
+  top: 1096px;
+  left: 1237px;
+  width: 66px;
+  height: 59px;
+}
+.ellipseIcon,
+.macbookAir2Child2 {
+  width: 105px;
+  height: 100px;
+}
+.macbookAir2Child2 {
+  top: 1100px;
+  left: 2707px;
+  cursor: pointer;
+}
+.arrowIcon,
+.macbookAir2Child3 {
+  position: absolute;
+  top: 1116.97px;
+  left: 2748.13px;
+  width: 22.09px;
+  height: 55.53px;
+}
+.macbookAir2Child3 {
+  top: 1118.97px;
+  left: 1279.13px;
+}
+.macbookAir2Child4,
+.vectorIcon {
+  position: absolute;
+  top: 500px;
+  left: 208px;
+  width: 52.03px;
+  height: 59px;
+}
+.macbookAir2Child4 {
+  left: 281px;
+}
+.macbookAir2Child5,
+.macbookAir2Child6,
+.macbookAir2Child7 {
+  position: absolute;
+  top: 500px;
+  left: 356px;
+  width: 52.03px;
+  height: 59px;
+}
+.macbookAir2Child6,
+.macbookAir2Child7 {
+  left: 429px;
+}
+.macbookAir2Child7 {
+  left: 493px;
+  width: 52px;
+}
+.b {
+  top: 359px;
+  left: 163px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-seagreen);
+  width: 250px;
+  height: 141px;
+}
+.b,
+.iAmA,
+.sde2Amazon {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.sde2Amazon {
+  top: 736px;
+  left: 203px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  width: 484px;
+  height: 106px;
+}
+.iAmA {
+  top: 846px;
+  left: 208px;
+  font-size: var(--font-size-base);
+  text-align: justify;
+  width: 786px;
+  height: 280px;
+}
+.macbookAir2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1684px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

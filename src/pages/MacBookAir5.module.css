@@ -1,0 +1,166 @@
+.macbookAir5Child {
+  position: absolute;
+  top: 0;
+  left: 777.5px;
+  width: 2521.5px;
+  height: 2530px;
+}
+.macbookAir5Item,
+.maskGroupIcon {
+  position: absolute;
+  top: 751.19px;
+  left: 1758.2px;
+  width: 543px;
+  height: 546px;
+  object-fit: cover;
+}
+.maskGroupIcon {
+  top: 0;
+  left: 828px;
+  width: 2403px;
+  height: 2290px;
+}
+.macbookAir5Inner {
+  position: absolute;
+  top: 1222px;
+  left: 207px;
+  background-color: var(--color-forestgreen);
+  width: 535px;
+  height: 122px;
+}
+.bookASession {
+  position: absolute;
+  top: 1245px;
+  left: 281px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: justify;
+  display: inline-block;
+  width: 400px;
+  height: 67px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 1344px;
+  left: 1689px;
+  border-radius: var(--br-md);
+  width: 693px;
+  height: 180px;
+}
+.ankita,
+.ankita2 {
+  position: absolute;
+  top: 1381px;
+  left: 1689px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 616px;
+  height: 106px;
+}
+.ankita2 {
+  top: 630px;
+  left: 13px;
+}
+.ellipseIcon,
+.macbookAir5Child1,
+.macbookAir5Child2 {
+  position: absolute;
+  top: 1096px;
+  left: 1237px;
+  width: 66px;
+  height: 59px;
+}
+.ellipseIcon,
+.macbookAir5Child2 {
+  width: 105px;
+  height: 100px;
+}
+.macbookAir5Child2 {
+  top: 1100px;
+  left: 2707px;
+  cursor: pointer;
+}
+.arrowIcon,
+.macbookAir5Child3 {
+  position: absolute;
+  top: 1116.97px;
+  left: 2748.13px;
+  width: 22.09px;
+  height: 55.53px;
+}
+.macbookAir5Child3 {
+  top: 1118.97px;
+  left: 1279.13px;
+}
+.macbookAir5Child4,
+.vectorIcon {
+  position: absolute;
+  top: 500px;
+  left: 208px;
+  width: 52.03px;
+  height: 59px;
+}
+.macbookAir5Child4 {
+  left: 281px;
+}
+.macbookAir5Child5,
+.macbookAir5Child6,
+.macbookAir5Child7 {
+  position: absolute;
+  top: 500px;
+  left: 356px;
+  width: 52.03px;
+  height: 59px;
+}
+.macbookAir5Child6,
+.macbookAir5Child7 {
+  left: 429px;
+}
+.macbookAir5Child7 {
+  left: 493px;
+}
+.mlEngineerFirework {
+  top: 736px;
+  left: 197px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  width: 668px;
+  height: 106px;
+}
+.b,
+.mlEngineerFirework,
+.workingMyWay {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: inline-block;
+}
+.workingMyWay {
+  top: 842px;
+  left: 208px;
+  font-size: var(--font-size-base);
+  text-align: justify;
+  width: 788px;
+  height: 287px;
+}
+.b {
+  top: 359px;
+  left: 186px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-forestgreen);
+  width: 203px;
+  height: 141px;
+}
+.macbookAir5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1684px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
